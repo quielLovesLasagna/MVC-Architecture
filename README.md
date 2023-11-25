@@ -2,9 +2,9 @@
 
 <h2>Why worry about arhcitecture?</h2>
 
-1) The architecture will give our project structure in which we can then write the code. In software, structure basically means how we organize and divide the code into different modules, classes, and functions.
+1) The architecture will give our project structure in which we can then write the code. In software, structure basically means organizing and dividing the code into different modules, classes, and functions.
 
-2) Maintainability, when we build a project, we always need to think about the future and keep in mind that the project is never really done. We need to be able to easily change it in the future.
+2) Maintainability, when we build a project, we always need to consider the future and keep in mind that the project is never really done. We need to be able to change it in the future easily.
 
 3) Expandability, the ability to easily add new features in the future.
 
@@ -23,3 +23,7 @@ Example of MVC:
 MVC Implementation:
 
 ![MVC Implementation](./img/mvc-implementation.PNG)
+
+###
+
+Contents used in this repo do not belong to me and I do not own them.
