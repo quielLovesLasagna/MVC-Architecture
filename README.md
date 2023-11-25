@@ -24,6 +24,6 @@ MVC Implementation:
 
 ![MVC Implementation](./img/mvc-implementation.PNG)
 
-###
+#
 
-Contents used in this repo do not belong to me and I do not own them.
+**_Contents used in this repository do not belong to me and I do not own them._**
